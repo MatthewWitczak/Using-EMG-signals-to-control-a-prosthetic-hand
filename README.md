@@ -9,6 +9,3 @@ This MATLAB script provides a complete pipeline for surface EMG (electromyograph
 
 # emg_data.txt
 Raw EMG signal measured on the forearm using surface electrodes, sampled at 1000 Hz with a 10-bit ADC (0–1023). The file is provided as example input data for testing and demonstration of the analysis script.
-
-# EMG-Based Prosthetic Hand Control Program
-The program that controls a prosthetic hand using EMG signals is available in this repository: https://github.com/MatthewWitczak/Using-EMG-signals-to-control-a-prosthetic-hand
