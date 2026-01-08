@@ -9,3 +9,22 @@ This MATLAB script provides a complete pipeline for surface EMG (electromyograph
 
 # emg_data.txt
 Raw EMG signal measured on the forearm using surface electrodes, sampled at 1000 Hz with a 10-bit ADC (0–1023). The file is provided as example input data for testing and demonstration of the analysis script.
+
+# Characteristics of the EMG signal
+
+The measured signal was processed and analyzed in MATLAB.
+
+EMG signal waveform:
+<p align="center">
+  <img width="665" height="528" alt="Zrzut ekranu 2026-01-8 o 17 10 59" src="https://github.com/user-attachments/assets/2efaeb84-0875-43fc-85f3-856888a598fd" />
+</p>
+
+EMG signal spectrum:
+<p align="center">
+  <img width="665" height="528" alt="Zrzut ekranu 2026-01-8 o 17 11 14" src="https://github.com/user-attachments/assets/44ade454-6b77-4ebf-a75d-a00a6f684af8" />
+</p>
+
+EMG signal spectrogram:
+<p align="center">
+  <img width="665" height="528" alt="Zrzut ekranu 2026-01-8 o 17 11 23" src="https://github.com/user-attachments/assets/a8fa7efd-5419-479c-a50f-952b61b4cf14" />
+</p>
